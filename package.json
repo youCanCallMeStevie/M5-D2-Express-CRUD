@@ -22,6 +22,8 @@
     "url": "https://github.com/Strive-School-Fall-2020/M5-D2-Express-CRUD/issues"
   },
   "homepage": "https://github.com/Strive-School-Fall-2020/M5-D2-Express-CRUD#readme",
-  "devDependencies": {},
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  },
   "description": ""
 }

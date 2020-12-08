@@ -1,5 +1,5 @@
 const express = require("express")
-const userRoutes = require("./users") //automatically with grab index file in that folder
+const userRoutes = require("./services/users") //automatically with grab index file in that folder
 
 const server = express()
 const port = 3001
