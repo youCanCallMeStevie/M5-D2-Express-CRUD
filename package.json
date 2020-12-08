@@ -1,7 +1,6 @@
 {
   "name": "my-api-server",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -14,5 +13,15 @@
     "cors": "^2.8.5",
     "express": "^4.17.1",
     "uniqid": "^5.2.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Strive-School-Fall-2020/M5-D2-Express-CRUD.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Strive-School-Fall-2020/M5-D2-Express-CRUD/issues"
+  },
+  "homepage": "https://github.com/Strive-School-Fall-2020/M5-D2-Express-CRUD#readme",
+  "devDependencies": {},
+  "description": ""
 }
